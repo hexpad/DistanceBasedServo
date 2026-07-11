@@ -1,4 +1,4 @@
-## DistanceBasedServo
+## distance-based-servo
 
 ## Summary
 
