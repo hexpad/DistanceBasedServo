@@ -32,7 +32,7 @@ Power on the circuit.
 
 According to the measured distance, the servo will turn:
 
-180° if 2–10 cm.
+180° if 2-10 cm.
 0° otherwise.
 
 ## Example Output
